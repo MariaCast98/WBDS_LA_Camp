@@ -1,3 +1,3 @@
 ### Repositorio de práctica del WBDS LA Camp
 
-**Autor/a/e: MariaCast
+**Autor/a/e**: MariaCast
